@@ -2424,7 +2424,7 @@ ul.minicart .cart-price .new {
 
 /* 12. Cta */
 .cta-bg {
-	background-image: url(../img/bg/cta_bg.jpg);
+	background-image: url(https://en.igihe.com/IMG/arton44079.jpg?1628183633);
 	padding: 120px 0;
 	background-position: center;
 	background-size: cover;
@@ -4546,7 +4546,7 @@ ul.minicart .cart-price .new {
 /* 25. Newsletter */
 .newsletter-wrap {
 	border-radius: 80px;
-	background-color: rgb(25, 14, 34);
+	background-color: rgb(255, 255, 255);
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
@@ -4644,7 +4644,7 @@ ul.minicart .cart-price .new {
 	margin-left: 5px;
 }
 .s-newsletter-area .newsletter-wrap {
-	background-color: #1c181e;
+	background-color: #5e5e64;
 }
 .s-newsletter-area .newsletter-title h2 {
 	letter-spacing: 0;
